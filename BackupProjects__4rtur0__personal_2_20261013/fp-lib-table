@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BackupProjects__4rtur0__personal_2_20261013-import-fps") (type "KiCad") (uri "${KIPRJMOD}/BackupProjects__4rtur0__personal_2_20261013-import-fps.pretty") (options "kicad_import_cache=1") (descr ""))
+)
